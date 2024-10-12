@@ -3,7 +3,7 @@
     <config>
         <idioma>0</idioma>
         <licencia></licencia>
-        <adxuntos>triangulo.jpg</adxuntos>
+        <adxuntos>12.56_elevado.jpg,30_elevado.jpg,36_elevado.jpg,9cm_cuadrado.jpg,b_x_h.jpg,b_x_h_entre_2.jpg,base_altura_(2).jpg,base_entre_altura.jpg,combinaci_on.jpg,ecuaci_on_L.jpg,irregular_rombo.jpg,Lado.jpg,octagono_regular_1.jpg,oscuro_triangulo.jpg,pentagono.jpg,PeriGeoMath_logo_opci_on_3.png,pol_igono_a_descomponer.jpg,radio_2_cm.jpg,rect_angulo_(2).jpg,rombo_(2).jpg,tri_angulo_a_90.jpg,tri_angulo_a_la_derecha.jpg,triangulo.jpg</adxuntos>
         <corfondo>64B1FF</corfondo>
         <corbanda>8080FF</corbanda>
         <cornavega>8080FF</cornavega>
@@ -68,7 +68,7 @@
         <paxina id="4" >
               <tipo>1</tipo>
               <cabeceira>Selecciona la respuesta correcta:</cabeceira>
-              <pe>Contesta en base a tus conocimientos. </pe>
+              <pe>Contesta en base a tus conocimientos.</pe>
               <imaxe>PeriGeoMath_logo_opci_on_3.png</imaxe>
               <texto>¿Cómo resolvemos el ejercicio para calcular un área combinada de un polígono?</texto>
               <resp texto="" valor="0">Se mutiplica cada lado y se divide entre dos.</resp>
