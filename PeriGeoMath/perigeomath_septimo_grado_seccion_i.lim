@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <adxuntos>12.56_elevado.jpg,30_elevado.jpg,36_elevado.jpg,9cm_cuadrado.jpg,b_x_h.jpg,b_x_h_entre_2.jpg,base_altura_(2).jpg,base_entre_altura.jpg,combinaci_on.jpg,ecuaci_on_L.jpg,irregular_rombo.jpg,Lado.jpg,octagono_regular_1.jpg,oscuro_triangulo.jpg,pentagono.jpg,PeriGeoMath_logo_opci_on_3.png,pol_igono_a_descomponer.jpg,radio_2_cm.jpg,rect_angulo_(2).jpg,rombo_(2).jpg,tri_angulo_a_90.jpg,tri_angulo_a_la_derecha.jpg,triangulo.jpg</adxuntos>
+        <corfondo>64B1FF</corfondo>
+        <corbanda>8080FF</corbanda>
+        <cornavega>8080FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Matemáticas 7° grado</titulo>
+        <subtitulo>Sección: "I"</subtitulo>
+        <autor>Informática educativa 5° año</autor>
+        <logo>PeriGeoMath_logo_opci_on_3.png</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">PeriGeoMath_logo_opci_on_3.png</imaxe>
+              <texto posx="70" posy="11" ancho="417" largo="321"><![CDATA[
+<p align="left">
+<font color="#080000" face="Times" size="24"><b></b><br>
+<b>                                                       Áreas y Perímetros:</b><br>
+<b>     </b><br>
+<b>ÁREA: El área es la medida de la superficie de una figura o región en un plano. Se expresa en       unidades cuadradas (como metros cuadrados o centímetros cuadrados) y representa la cantidad de espacios dentro de los límites de una figura geométrica.</b><br>
+<br>
+<b>Ecuación de área:</b><br>
+<br>
+<b>Comunmente se utiliza (A= b x h) b= base de la figura y h= altura de la figura, pero en caso de que la figura sea un cuadrado sería de la siguiente manera (A=L x L) L= lados del cuadrado, en caso de que la figura sea un triángulo se representará de la siguiente manera A= b x h / 2 (base por altura entre dos) , el resultado se representará con la elevación al cuadrado ej: A= 15 cm^2.</b><br>
+<br>
+<b>  Perímtero: El perímetro es la suma de las longitudes de todos los lados de una figura geomértrica. Representan la distancia alrededor de la figura y se mide en unidades lineales, como metros o centímetros.</b><br>
+<br>
+<b>Ecuación de perímetro:</b><br>
+<br>
+<b>En esta la ecuación que se utiliza es la siguiente P= b + h (P= perímetro, b= base de la figura, h= altura de la figura), en esta ecuación el resultado no sepresenta con elevación como en la ecuación antesmencionada.</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>46</tipo>
+              <cabeceira>Une con una línea las respuestas de la derecha:</cabeceira>
+              <pe>Debes unir la pregunta con la respuesta que creas correcta.</pe>
+              <etiqueta texto="Calcula el área de cada figura y suma los resultados."  posy="2">¿Ecuación para calcular el área de un rectángulo?</etiqueta>
+              <etiqueta texto="Base por altura entre dos."  posy="3">¿Qué ecuación se usa para calcular el perímetro?</etiqueta>
+              <etiqueta texto="Base más altura."  posy="5">¿Qué son polígonos regulares?</etiqueta>
+              <etiqueta texto="Sus lados no son iguales."  posy="1">¿Cómo se calcula un área combinada?</etiqueta>
+              <etiqueta texto="Todos sus lados son iguales"  posy="4">¿Qué son polígonos irregulares?</etiqueta>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Calcula el perímetro de los siguientes polígonos:</cabeceira>
+              <pe>Puedes usar cuaderno o calculadora para comprobar la respuesta.</pe>
+              <modo>1</modo>
+              <cousa nome="22 cm">triangulo.jpg</cousa>
+              <cousa nome="80 cm">combinaci_on.jpg</cousa>
+              <cousa nome="36 cm">9cm_cuadrado.jpg</cousa>
+              <cousa nome="16 cm">rect_angulo_(2).jpg</cousa>
+              <cousa nome="18 cm">oscuro_triangulo.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>1</tipo>
+              <cabeceira>Selecciona la respuesta correcta:</cabeceira>
+              <pe>Contesta en base a tus conocimientos.</pe>
+              <imaxe>PeriGeoMath_logo_opci_on_3.png</imaxe>
+              <texto>¿Cómo resolvemos el ejercicio para calcular un área combinada de un polígono?</texto>
+              <resp texto="" valor="0">Se mutiplica cada lado y se divide entre dos.</resp>
+              <resp texto="" valor="0">Se calcula toda el áre de la figura.</resp>
+              <resp texto="" valor="1">Se descompone la figura y se calcula el área de cada figura.</resp>
+              <resp texto="" valor="0">Se multiplica base por altura.</resp>
+        </paxina>
+        <paxina id="5" >
+              <tipo>11</tipo>
+              <cabeceira>Calcula el área de los siguientes polígonos:</cabeceira>
+              <pe>Puedes usar cuaderno o calculadora para comprobar la respuesta.</pe>
+              <modo>1</modo>
+              <cousa nome="81^2 cm ">9cm_cuadrado.jpg</cousa>
+              <cousa nome="18^2 cm ">tri_angulo_a_la_derecha.jpg</cousa>
+              <cousa nome="15^2 cm ">rect_angulo_(2).jpg</cousa>
+              <cousa nome="96^2 cm ">tri_angulo_a_90.jpg</cousa>
+              <cousa nome="24^2 cm">irregular_rombo.jpg</cousa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>14</tipo>
+              <cabeceira>Arrastra la respuesta debajo de la imagen correspondiente:</cabeceira>
+              <pe>Puedes usar cuaderno o calculadora para comprobar la respuesta.</pe>
+              <peza imaxe="rombo_(2).jpg" texto="" son="">36_elevado.jpg</peza>
+              <peza imaxe="pentagono.jpg" texto="" son="">30_elevado.jpg</peza>
+              <peza imaxe="radio_2_cm.jpg" texto="" son="">12.56_elevado.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>20</tipo>
+              <cabeceira>Calcula el área de las figuras de colores:</cabeceira>
+              <pe>Debes utilizar calculadora o tu cuaderno para comprobar la respuesta.</pe>
+              <imaxe>pol_igono_a_descomponer.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="185" posy="154">27 cm</etiqueta>
+              <etiqueta posx="367" posy="58">36 cm</etiqueta>
+              <etiqueta posx="292" posy="292">90 cm</etiqueta>
+              <etiqueta posx="62" posy="45">153 cm</etiqueta>
+        </paxina>
+        <paxina id="8" >
+              <tipo>14</tipo>
+              <cabeceira>Arrastra la ecuación debajo de la imagen correspondiente:</cabeceira>
+              <pe>En base a tus conocimientos arrastra la respuesta que creas correcta.</pe>
+              <peza imaxe="Lado.jpg" texto="" son="">ecuaci_on_L.jpg</peza>
+              <peza imaxe="base_entre_altura.jpg" texto="" son="">b_x_h_entre_2.jpg</peza>
+              <peza imaxe="base_altura_(2).jpg" texto="" son="">b_x_h.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <cabeceira>Resuelve el siguiente problema:</cabeceira>
+              <pe>Este ejercicio deberás realizarlo en tu cuaderno y mostrarselo al docente.</pe>
+              <imaxe posx="0" posy="0">octagono_regular_1.jpg</imaxe>
+              <texto posx="402" posy="0" ancho="183" largo="347"><![CDATA[
+<p align="left">
+<font color="#080000" face="Times" size="20"><b>Calcula el área y el perímetro </b><br>
+<b>de un octágono regular, </b><br>
+<b>cada lado del octágono </b><br>
+<b>mide 5 cm.</b><br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>64B1FF</cfondo>
+              <ctexto>B0B0B0</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
